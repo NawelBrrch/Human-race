@@ -1,13 +1,9 @@
-# hetic-wp2020-08-halo
+# Human Race
 
-# Borini Hugo
+1300x800
 
-# Berrichi Nawel
+### Borini Hugo
 
-# Gillet Aymeric
-
-# Painnot Alex
-
-# Lugat Teo
+### Berrichi Nawel
 
 https://human-race-hetic.netlify.com/
